@@ -1,0 +1,17 @@
+this project is built using unity 2018.3 for htc vive and latest steamVR
+achivements:
+Fundamentals:700 points
+1-scale:user is scaled relative to other objects. 100
+2-animation of monsters and sword.100
+3-mix of baked and real time lighting.100
+4- diffrent uses of physics.throwable and interactable objects.100
+5-locomotion two types.100
+6-video playing on a boroken screen.100+(100 for lighting)=200
+
+Completeness:750 points
+1. Gamification achievement, the user can interact with the story and content of the game.250
+2-UI the sword,and wall text and audio hits.250 
+3-3d modeling.i made the 3d of the broken video screen.250
+
+Challenges:500 points
+1-usr testing.250+(250 for750 points in Completeness)
